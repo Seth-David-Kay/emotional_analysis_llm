@@ -24,8 +24,8 @@ def choose_all(tweet, amount_run):
 	print(f"Average Scale: {average_scale}")
 	print(f"Num Responses Failed: {num_failed}")
 
-tweet = "North Korea, please cease this douchebaggery. China doesn't even like you anymore. http://bit.ly/NeHSl"
+# tweet = "North Korea, please cease this douchebaggery. China doesn't even like you anymore. http://bit.ly/NeHSl"
 
 # choose_least_failed(tweet, 10, 10)
 
-choose_all(tweet, 100)
+# choose_all(tweet, 100)
